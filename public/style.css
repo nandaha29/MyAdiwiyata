@@ -1,0 +1,146 @@
+.body {
+    font-family: 'Nunito', sans-serif;
+}
+
+/* =================== Beranda Page ============================ */
+.pohon1 {
+    height: auto;
+    width: 100%;
+}
+
+.contoh{
+    color:red;
+}
+
+.header1{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 5px;
+}
+.nav-link {
+    margin-right: 30px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.title2{
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+span {
+    color: #5aff3d;
+}
+span1 {
+    color: #4e8d7c;
+}
+.kiri {
+    height: 55%;
+    margin-top: 160px;
+    margin-left: 100px;
+
+}
+.kanan {
+    margin-left: -150px;
+    margin-top: 220px;
+}
+.kana {
+    margin-left: 80px;
+    margin-top: 200px;
+    height: 35%;
+    border-radius: 5px 5px 5px 5px;
+}
+.titleapa {
+    font-weight: 400;
+    font-size: 45px;
+}
+.paragapa {
+    /* font-weight: 400; */
+    font-size: 18px;
+    color: #898b8a;
+}
+.titleapa2 {
+    font-weight: 400;
+    font-size: 45px;
+    margin-left: -500px;
+    margin-top: 200px;
+}
+.paragapa2{
+    /* font-weight: 400; */
+    font-size: 18px;
+    color: #898b8a;
+    margin-left: -500px;
+}
+
+/* =================== Karya Page ============================ */
+.jumboo {
+    position: relative;
+    background: #000 url("./image/pohon2.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    color: white;
+}
+
+.titlekar {
+    color: white;
+    align-items: center;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.titlekar1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+.judul {
+    margin: 60px auto;
+}
+.titlekar2 {
+    text-align: center;
+    font-size: 40px;
+
+}
+.jarakcard {
+    margin: 5%;
+}
+
+/* =================== Karya Page ============================ */
+
+.jumbooo{
+    position: relative;
+    background: #000 url("./image/sekolah3.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    color: white;
+}
+
+.kiripro {
+    height: 55%;
+    margin-top: 160px;
+    margin-left: 15px;
+
+}
+.kananpro {
+    margin-left: -250px;
+    margin-top: 220px;
+}
+.titlekar3 {
+    margin-top: -150px;
+    text-align: center;
+    font-size: 50px;
+}
